@@ -1,0 +1,6 @@
+uso do cli para criar arquivos e config automaticamente:
+    -nest g module modules/user
+    -nest g controller modules/user
+    -nest g service modules/user
+    -nest g provider user-repository
+    -nest g resource modules/user (CRIA O CRUD TODO)
