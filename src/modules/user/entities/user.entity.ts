@@ -1,9 +1,7 @@
 import { UserInterface } from '../interfaces/user.interface';
 
-export class UserDto implements UserInterface {
+export class User implements UserInterface {
   id: string;
-  createdAt: Date;
-  updatedAt: Date;
   username: string;
   password: string;
   salt: string;

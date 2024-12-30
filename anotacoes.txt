@@ -4,3 +4,25 @@ uso do cli para criar arquivos e config automaticamente:
     -nest g service modules/user
     -nest g provider user-repository
     -nest g resource modules/user (CRIA O CRUD TODO)
+
+983d7e54-249b-452f-a60b-ae9914a826cb
+[
+    {
+        "username": "FULANO",
+        "password": "123456",
+        "firstName": "FULANO",
+        "lastName": "SILVA",
+        "email": "FULANOS@GMAIL.COM",
+        "active": true,
+        "id": "983d7e54-249b-452f-a60b-ae9914a826cb"
+    },
+    {
+        "username": "CICLANO",
+        "password": "123456",
+        "firstName": "CICLANO",
+        "lastName": "SILVA",
+        "email": "CICLANOS@GMAIL.COM",
+        "active": true,
+        "id": "81fce13c-26a9-4090-9132-4bc31185e24b"
+    }
+]
